@@ -132,7 +132,7 @@ I’m currently doing an internship at [Candel](https://www.candelmed.com/) </a>
 <h3 align="left">Cloud & DevOps:</h3>
 <p align="left">
   <a href="https://aws.amazon.com/amplify" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/aws-amplify/amplify-js/main/media/logo.svg" alt="AWS Amplify" width="40" height="40"/> 
+    <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="AWS Amplify" width="40" height="40"/> 
   </a>
   <br>AWS Amplify
   <br>
