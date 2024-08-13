@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Hernán Espinoza Castillo</h1>
+
 <h3 align="center">A passionate mobile developer from Chile</h3>
 
-<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhlcnBkZXJxOTdkb2RuZmsxOGlnbzN3YnQ1aGxpb2gya3BscHVxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
+<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhlcnBkZXJxOTdkb2RuZmsxOGlnbzN3YnQ1aGxpb2gya3BscHVxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 
 <p><em>Programmer Analyst at <a href="https://portales.inacap.cl">INACAP</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br> 
   
 ---
 
-- 🔭 I’m currently doing an internship at [Candel](https://www.candelmed.com/) <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- 🔭 I’m currently doing an internship at [Candel](https://www.candelmed.com/) <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <h3 align="left">Connect with me:</h3>
