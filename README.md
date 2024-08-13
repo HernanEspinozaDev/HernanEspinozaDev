@@ -2,11 +2,11 @@
 
 <h3 align="center">A passionate mobile developer from Chile</h3>
 
-<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhlcnBkZXJxOTdkb2RuZmsxOGlnbzN3YnQ1aGxpb2gya3BscHVxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhlcnBkZXJxOTdkb2RuZmsxOGlnbzN3YnQ1aGxpb2gya3BscHVxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 
 <p><em>Programmer Analyst at <a href="https://portales.inacap.cl">INACAP</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br> 
 
-🔭 I’m currently doing an internship at [Candel](https://www.candelmed.com/) </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+I’m currently doing an internship at [Candel](https://www.candelmed.com/) </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ---
@@ -16,6 +16,8 @@
 <a href="https://dev.to/hernanespinozadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hernanespinozadev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hernanespinozadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hernanespinozadev" height="30" width="40" /></a>
 </p>
+
+---
 
 <h3 align="left">Languages:</h3>
 <p align="left">
@@ -31,6 +33,9 @@
   
 </p>
 
+---
+
+<h3 align="left">Front End:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
@@ -42,6 +47,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
   </a>
 </p>
+
+---
 
 <h3 align="left">Frameworks and Libraries:</h3>
 <p align="left">
@@ -68,6 +75,8 @@
   </a>
 </p>
 
+---
+
 <h3 align="left">Databases:</h3>
 <p align="left">
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> 
@@ -87,6 +96,8 @@
   </a> 
 </p>
 
+---
+
 <h3 align="left">Cloud & DevOps:</h3>
 <p align="left">
   <a href="https://aws.amazon.com/amplify" target="_blank" rel="noreferrer"> 
@@ -96,6 +107,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
   </a> 
 </p>
+
+---
 
 <h3 align="left">Tools and Platforms:</h3>
 <p align="left">
@@ -108,4 +121,4 @@
 </p>
 
 ---
-⭐️ From [@Hernán Espinoza Castillo](https://github.com/HernanEspinoza)
+⭐️ From [@Hernán Espinoza Castillo](https://github.com/HernanEspinozaDev)
