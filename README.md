@@ -4,7 +4,9 @@
 
 <img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhlcnBkZXJxOTdkb2RuZmsxOGlnbzN3YnQ1aGxpb2gya3BscHVxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 
-<p><em>Programmer Analyst at <a href="https://portales.inacap.cl">INACAP</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br> 
+<p><em>Programmer Analyst</em> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
+
+<p><em>Currently studying Engineering in Informatics at <a href="https://portales.inacap.cl">INACAP</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br> 
 
 ---
 
@@ -87,11 +89,6 @@
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/> 
   </a>
   <br>Django
-  <br>
-  <a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/> 
-  </a>
-  <br>Flask
 </p>
 
 ---
