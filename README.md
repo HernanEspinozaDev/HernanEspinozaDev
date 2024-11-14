@@ -6,9 +6,6 @@
 
 <p><em>Programmer Analyst at <a href="https://portales.inacap.cl">INACAP</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br> 
 
-I’m currently doing an internship at [Candel](https://www.candelmed.com/) </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
 ---
 
 <h3 align="left">Connect with me:</h3>
