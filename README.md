@@ -6,7 +6,6 @@
 
 <p><em>Programmer Analyst</em> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
 
-<p><em>Currently studying Engineering in Informatics at <a href="https://portales.inacap.cl">INACAP</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br> 
 
 ---
 
