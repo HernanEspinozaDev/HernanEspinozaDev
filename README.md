@@ -7,7 +7,7 @@
 <img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhlcnBkZXJxOTdkb2RuZmsxOGlnbzN3YnQ1aGxpb2gya3BscHVxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 
 <h3 align="left">Connect with me:</h3>
-<p><em>Programmer Analyst</em> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
+<p><em>Software Engineer</em> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
 
 <p align="left">
 <a href="https://dev.to/hernanespinozadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hernanespinozadev" height="30" width="40" /></a>
